@@ -1,0 +1,17 @@
+---
+date: 2024-06-15
+# title-slide-attributes: 
+    # data-background-image: logo_slide_backgroud.png
+    # data-background-size: contain
+authour: "Tsung-Hsi, Wu"
+format: 
+    revealjs:
+        width: 1600
+        height: 900
+        theme: [serif,custom.scss] # https://quarto.org/docs/presentations/revealjs/#themes
+        slide-number: true
+---
+
+## {background-image="Fig_publicTransport.png" background-size="contain"}
+
+## {background-image="greenbreeze_map.jpg" background-size="contain"}
